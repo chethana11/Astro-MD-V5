@@ -1,7 +1,7 @@
 {
   "name": "Astro-Md",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+  "logo": "https://i.pinimg.com/736x/4a/92/2c/4a922c2591566872ebd2ab6e20f1ab35--cool-anime-guys-anime-boys.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "AstroBot", "Astro","AstroMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
